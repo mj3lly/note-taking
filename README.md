@@ -1,4 +1,4 @@
-# Note Taking Project (Spring Boot)
+# Note Taking Service (Spring Boot)
 This is a Note-Taking Java / Maven / Spring Boot (version 3.2.4) application.
 
 # How to Run
